@@ -57,3 +57,13 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+.color-button{
+  aspect-ratio: 1/1;
+}
+.color__black{
+  background-color: black;
+}
+.color__blue{
+  background-color: blue;
+}
